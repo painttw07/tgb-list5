@@ -1,0 +1,2 @@
+﻿  glad.c
+C:\Users\camyl\OneDrive\Área de Trabalho\PG2021-2-main\HelloFrameworkPOA\glad.c(24,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory

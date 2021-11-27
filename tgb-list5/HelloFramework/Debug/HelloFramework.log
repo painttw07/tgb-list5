@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HelloFramework.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Origem.cpp
+C:\Users\pamela.santos\Documents\lista-5\lista-5\HelloFramework\Origem.cpp(34,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  HelloFramework.vcxproj -> C:\Users\pamela.santos\Documents\lista-5\lista-5\Debug\1A.exe

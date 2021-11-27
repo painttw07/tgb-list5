@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\pamela.santos\Documents\lista-5\lista-5\1D\Origem.cpp(34,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  1D.vcxproj -> C:\Users\pamela.santos\Documents\lista-5\lista-5\Debug\1D.exe
